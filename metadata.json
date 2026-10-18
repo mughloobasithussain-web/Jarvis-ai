@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis - AI Phone Assistant",
+  "description": "Next-generation hands-free personal device assistant that acts upon 'Hey Jarvis' voice commands, executing device actions, multi-step routines, calls, messages, scheduling, and phone control.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
